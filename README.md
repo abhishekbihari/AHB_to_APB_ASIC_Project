@@ -392,7 +392,48 @@ AHB_to_APB_ASIC_Project/
 │   └── manufacturability.rpt
 │
 └── README.md
-```
+```## ASIC Design Flow
+
+1. RTL Design (Verilog)
+2. Functional Simulation
+3. Synthesis
+4. Floorplanning
+5. Placement
+6. Clock Tree Synthesis (CTS)
+7. Routing
+8. DRC/LVS Checks
+9. GDSII Generation
+
+---
+
+## Tools Used
+
+| Tool | Purpose |
+|------|----------|
+| OpenLane | Complete RTL-to-GDS flow |
+| OpenROAD | Physical design automation |
+| Sky130 PDK | 130nm fabrication technology |
+| Magic VLSI | Layout viewing and DRC |
+| KLayout | GDS visualization |
+| Docker | Tool environment |
+| WSL | Linux environment on Windows |
+
+---
+
+## Generated Outputs
+
+- RTL Verilog
+- Testbench
+- Final GDSII Layout
+- Manufacturability Report
+- Metrics Report
+- Layout Screenshot
+
+---
+
+## Final Layout
+
+![ASIC Layout](final_asic_layout.png)
 
 ---
 
