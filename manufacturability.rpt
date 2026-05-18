@@ -1,0 +1,19 @@
+Design Name: ahb_to_apb_bridge
+Run Directory: /openlane/designs/ahb_to_apb_bridge/runs/RUN_2026.05.18_02.10.06
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/ahb_to_apb_bridge/runs/RUN_2026.05.18_02.10.06/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/ahb_to_apb_bridge/runs/RUN_2026.05.18_02.10.06/logs/signoff/39-ahb_to_apb_bridge.lef.lvs.log
+Number of nets: 447                        |Number of nets: 447                        
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/ahb_to_apb_bridge/runs/RUN_2026.05.18_02.10.06/logs/signoff/41-arc.log
+Pin violations: 29
+Net violations: 27
