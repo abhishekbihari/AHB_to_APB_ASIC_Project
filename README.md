@@ -431,10 +431,28 @@ AHB_to_APB_ASIC_Project/
 
 ---
 
-## Final Layout
 
-![ASIC Layout](final_asic_layout.png)
+## RTL Schematic
 
+![RTL](rtl_schematic/rtl_schematic.png)
+
+---
+
+## Functional Waveform
+
+![Waveform](waveforms/waveform.png)
+
+---
+
+## Synthesis Report
+
+![Synthesis](synthesis_reports/synthesis_report.png)
+
+---
+
+## Final ASIC Layout
+
+![Layout](layout_screenshots/final_asic_layout.png)
 ---
 
 # Resume Description
